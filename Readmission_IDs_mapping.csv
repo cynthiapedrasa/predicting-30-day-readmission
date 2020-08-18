@@ -1,0 +1,64 @@
+Variable,Id,description
+admission_type,1,Emergency
+admission_type,2,Urgent
+admission_type,3,Elective
+admission_type,4,Newborn
+admission_type,5,Not Available
+admission_type,6,NULL
+admission_type,7,Trauma Center
+admission_type,8,Not Mapped
+discharge_disposition,1,Discharged to home
+discharge_disposition,2,Discharged/transferred to another short term hospital
+discharge_disposition,3,Discharged/transferred to SNF
+discharge_disposition,4,Discharged/transferred to ICF
+discharge_disposition,5,Discharged/transferred to another type of inpatient care institution
+discharge_disposition,6,Discharged/transferred to home with home health service
+discharge_disposition,7,Left AMA
+discharge_disposition,8,Discharged/transferred to home under care of Home IV provider
+discharge_disposition,9,Admitted as an inpatient to this hospital
+discharge_disposition,10,Neonate discharged to another hospital for neonatal aftercare
+discharge_disposition,11,Expired
+discharge_disposition,12,Still patient or expected to return for outpatient services
+discharge_disposition,13,Hospice / home
+discharge_disposition,14,Hospice / medical facility
+discharge_disposition,15,Discharged/transferred within this institution to Medicare approved swing bed
+discharge_disposition,16,Discharged/transferred/referred another institution for outpatient services
+discharge_disposition,17,Discharged/transferred/referred to this institution for outpatient services
+discharge_disposition,18,NULL
+discharge_disposition,19,"Expired at home. Medicaid only, hospice."
+discharge_disposition,20,"Expired in a medical facility. Medicaid only, hospice."
+discharge_disposition,21,"Expired, place unknown. Medicaid only, hospice."
+discharge_disposition,22,Discharged/transferred to another rehab fac including rehab units of a hospital .
+discharge_disposition,23,Discharged/transferred to a long term care hospital.
+discharge_disposition,24,Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare.
+discharge_disposition,25,Not Mapped
+discharge_disposition,26,Unknown/Invalid
+discharge_disposition,30,Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere
+discharge_disposition,27,Discharged/transferred to a federal health care facility.
+discharge_disposition,28,Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital
+discharge_disposition,29,Discharged/transferred to a Critical Access Hospital (CAH).
+admission_source,1, Physician Referral
+admission_source,2,Clinic Referral
+admission_source,3,HMO Referral
+admission_source,4,Transfer from a hospital
+admission_source,5, Transfer from a Skilled Nursing Facility (SNF)
+admission_source,6, Transfer from another health care facility
+admission_source,7, Emergency Room
+admission_source,8, Court/Law Enforcement
+admission_source,9, Not Available
+admission_source,10, Transfer from critial access hospital
+admission_source,11,Normal Delivery
+admission_source,12, Premature Delivery
+admission_source,13, Sick Baby
+admission_source,14, Extramural Birth
+admission_source,15,Not Available
+admission_source,17,NULL
+admission_source,18, Transfer From Another Home Health Agency
+admission_source,19,Readmission to Same Home Health Agency
+admission_source,20, Not Mapped
+admission_source,21,Unknown/Invalid
+admission_source,22, Transfer from hospital inpt/same fac reslt in a sep claim
+admission_source,23, Born inside this hospital
+admission_source,24, Born outside this hospital
+admission_source,25, Transfer from Ambulatory Surgery Center
+admission_source,26,Transfer from Hospice
