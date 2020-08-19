@@ -6,13 +6,13 @@ Student pace: **self paced**
 Scheduled project review date/time:  **Monday, Jun 15, 2020 Time: 10:00am-11:00am (EDT)**  
 Instructor name: **Jeff Herman**  
 Deliverables:
-1. Jupyter Notebooks:
-    a. https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Part_1_Data_Preprocessing.ipynb
-    b. https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Part_2_Model_Evaluation.ipynb
+1. Jupyter Notebooks:  
+    a. [Data Preprocessing](https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Part_1_Data_Preprocessing.ipynb)  
+    b. [Model Evaluation](https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Part_2_Model_Evaluation.ipynb)  
 
-2. Blog Post: https://cpedrasa.github.io/predicting_30-day_hospital_readmisssions
+2. [Blog Post:](https://cpedrasa.github.io/predicting_30-day_hospital_readmisssions)  
 
-3. Executive Summary: https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Predicting_Hospital_Readmissions.pdf
+3. [Executive Summary:](https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Predicting_Hospital_Readmissions.pdf)  
 
 
 ## Introduction
